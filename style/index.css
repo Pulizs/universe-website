@@ -46,3 +46,15 @@ header{
     width: 70%;
     transform: translateY(-80px);
 }
+.active{
+    width: 50%;
+    transform: translateY(-80px);
+}
+.img-planeta {
+    position:absolute;
+    
+  }
+  
+  .img-planeta:hover {
+    opacity:0;
+  }
