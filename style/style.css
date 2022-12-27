@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+    width: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+
+.home{
+    object-fit: cover;
+    
+}
