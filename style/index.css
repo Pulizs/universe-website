@@ -3,9 +3,13 @@
     padding: 0;
 }
 
+body{
+    background-image: url(../imagens/universe.jpg);
+}
+
 header{
     width: 100%;
-    height: 70vh;
+    height: 30vh;
     overflow: hidden;
     position: relative;
 }
@@ -43,18 +47,6 @@ header{
 }
 
 .img-planeta{
-    width: 70%;
-    transform: translateY(-80px);
-}
-.active{
     width: 50%;
     transform: translateY(-80px);
 }
-.img-planeta {
-    position:absolute;
-    
-  }
-  
-  .img-planeta:hover {
-    opacity:0;
-  }
